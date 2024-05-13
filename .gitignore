@@ -1,0 +1,45 @@
+# Ignore Visual Studio files
+.vs/
+*.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+bin/
+obj/
+
+# Ignore build output
+[Bb]in/
+[Oo]bj/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Ignore build output and logs
+*.log
+*.swp
+*.bak
+*.cache
+
+# Ignore ReSharper files
+_ReSharper*/
+
+# Ignore dotCover files
+*.dotCover
+
+# Ignore json files
+*.json
+
+# Ignore Visual Studio code coverage files
+*.coverage
+*.coveragexml
+
+# Ignore generated files
+[Tt]est[Rr]esult*/
+[Ll]egacy/[Bb]uild/
